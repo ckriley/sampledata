@@ -16,5 +16,8 @@ public class App
 
        /** Sample code here for BIG-9 **/
        System.out.println("Code for supporting logging of errors.");
+
+	/** Sample code here for BIG-10 **/
+       System.out.println("Code for supporting multi-part uploads.");
     }
 }

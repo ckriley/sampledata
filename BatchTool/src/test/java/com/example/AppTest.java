@@ -14,6 +14,8 @@ public class AppTest
 
     /** New test method for SSL check. **/
 
+    /** New test mthod for logging errors. **/
+
     /**
      * Create the test case
      *

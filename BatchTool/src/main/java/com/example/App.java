@@ -13,5 +13,8 @@ public class App
 
        /** Sample code here for supporting BIG-8 **/
        System.out.println("Supporting SSL.");
+
+       /** Sample code here for BIG-9 **/
+       System.out.println("Code for supporting logging of errors.");
     }
 }

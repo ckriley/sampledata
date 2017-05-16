@@ -10,6 +10,8 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
+    /** New test method for multi-file check **/
+
     /**
      * Create the test case
      *

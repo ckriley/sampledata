@@ -12,6 +12,8 @@ public class AppTest
 {
     /** New test method for multi-file check **/
 
+    /** New test method for SSL check. **/
+
     /**
      * Create the test case
      *
